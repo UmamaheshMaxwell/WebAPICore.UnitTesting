@@ -1,0 +1,6 @@
+.vs
+WebAPICore/bin
+WebAPICore/obj
+
+WebAPICore.Test/bin
+WebAPICore.Test/obj
